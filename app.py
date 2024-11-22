@@ -7,6 +7,7 @@ import streamlit as st
 
 # Load Model  
 model = load_model(r"C:\Users\udayk\Downloads\Career\python\BitCoin Price Prediction\nifty_prediction_model.keras")  
+model_path = "nifty_prediction_model.keras"
 
 st.header('Nifty 50 Price Prediction Model')
 st.subheader('Nifty 50 Price Data')
