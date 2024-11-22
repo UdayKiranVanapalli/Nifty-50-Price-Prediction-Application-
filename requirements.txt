@@ -4,3 +4,5 @@ pandas
 tensorflow
 scikit-learn
 streamlit
+matplotlib.pyplot
+sklearn
